@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/product-card-demo/static/js/main.820d8c9d.js",
+    "index.html": "/product-card-demo/index.html",
+    "main.820d8c9d.js.map": "/product-card-demo/static/js/main.820d8c9d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.820d8c9d.js"
+  ]
+}
